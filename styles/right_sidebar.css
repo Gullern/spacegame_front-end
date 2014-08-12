@@ -1,0 +1,19 @@
+#right_container {
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+}
+
+#top_right {
+	display: inline-block;
+	height: 40%;
+	width: 100%;
+	background-color: #8888FF;
+}
+
+#bottom_right {
+	display: inline-block;
+	height: 60%;
+	width: 100%;
+	background-color: #5555FF;
+}
